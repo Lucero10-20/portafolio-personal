@@ -1,22 +1,17 @@
-# Portafolio de Miguel Pallin
-Landing page responsive (HTML5, CSS3, JavaScript) con formulario de contacto en PHP.
+# Portafolio de Lucero Julca
 
-## Antes de subir
-1. En `contacto.php` cambia `$para` por tu correo real.
-2. En `index.html` reemplaza los textos entre [corchetes] y los 3 testimonios por testimonios REALES.
-3. Cambia las imágenes de `img/` por tus fotos (mantén los nombres o edita el HTML).
+Portafolio personal desarrollado como proyecto del curso de Diseño avanzado de interfaces de programaciín en TECSUP, carrera de Diseño y Desarrollo de Software.
 
-## Subir a InfinityFree
-1. Panel > File Manager (o FTP con FileZilla) > carpeta `htdocs`.
-2. Sube TODO el contenido (no la carpeta): `index.html`, `contacto.php`, `css/`, `js/`, `img/`.
-3. Apunta tu dominio miguelpallin.com a InfinityFree (nameservers) o usa el subdominio gratuito.
+## Secciones
+- **Inicio:** presentación personal.
+- **Nosotros:** quién soy y mis áreas favoritas.
+- **Galería:** mis trabajos, con enlace a cada proyecto.
+- **Testimonios:** opiniones de compañeros y docentes.
+- **Contacto:** formulario para escribirme.
 
-## Subir a GitHub
-```
-git init
-git add .
-git commit -m "Portafolio inicial"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/portafolio.git
-git push -u origin main
-```
+## Características
+- Diseño adaptable a celular, tablet y computadora.
+- Menú móvil, efectos al pasar el mouse y validación del formulario.
+
+## Autora
+Lucero Julca · [tu correo]
