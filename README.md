@@ -14,4 +14,4 @@ Portafolio personal desarrollado como proyecto del curso de Diseño avanzado de 
 - Menú móvil, efectos al pasar el mouse y validación del formulario.
 
 ## Autora
-Lucero Julca · [tu correo]
+Lucero Julca
